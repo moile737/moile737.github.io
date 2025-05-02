@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/moile737/moile737.github.io.git/</loc>
+    <loc>https://moile737.github.io/</loc>
     <lastmod>2025-05-02T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/moile737/moile737.github.io.git/en/"
+                href="https://moile737.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://github.com/moile737/moile737.github.io.git/"
+                href="https://moile737.github.io/"
                 />
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/post/</loc>
+    <loc>https://moile737.github.io/post/</loc>
     <lastmod>2025-05-02T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/p/%E5%BC%80%E5%A7%8B/</loc>
+    <loc>https://moile737.github.io/p/%E5%BC%80%E5%A7%8B/</loc>
     <lastmod>2025-05-02T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/categories/</loc>
+    <loc>https://moile737.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/moile737/moile737.github.io.git/en/categories/"
+                href="https://moile737.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://github.com/moile737/moile737.github.io.git/categories/"
+                href="https://moile737.github.io/categories/"
                 />
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/p/test-chinese/</loc>
+    <loc>https://moile737.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/categories/test/</loc>
+    <loc>https://moile737.github.io/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://moile737.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/css/</loc>
+    <loc>https://moile737.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/html/</loc>
+    <loc>https://moile737.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/markdown/</loc>
+    <loc>https://moile737.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/p/markdown-syntax-guide/</loc>
+    <loc>https://moile737.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/categories/syntax/</loc>
+    <loc>https://moile737.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/</loc>
+    <loc>https://moile737.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/moile737/moile737.github.io.git/en/tags/"
+                href="https://moile737.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://github.com/moile737/moile737.github.io.git/tags/"
+                href="https://moile737.github.io/tags/"
                 />
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/themes/</loc>
+    <loc>https://moile737.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/categories/themes/</loc>
+    <loc>https://moile737.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/privacy/</loc>
+    <loc>https://moile737.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/p/rich-content/</loc>
+    <loc>https://moile737.github.io/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/shortcodes/</loc>
+    <loc>https://moile737.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/p/placeholder-text/</loc>
+    <loc>https://moile737.github.io/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/tag-with-whitespaces/</loc>
+    <loc>https://moile737.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/categories/test-with-whitespaces/</loc>
+    <loc>https://moile737.github.io/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/text/</loc>
+    <loc>https://moile737.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/p/math-typesetting/</loc>
+    <loc>https://moile737.github.io/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/tags/emoji/</loc>
+    <loc>https://moile737.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/p/emoji-support/</loc>
+    <loc>https://moile737.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/page/</loc>
+    <loc>https://moile737.github.io/page/</loc>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/%E5%88%86%E7%B1%BB%E5%BD%92%E6%A1%A3/</loc>
+    <loc>https://moile737.github.io/%E5%88%86%E7%B1%BB%E5%BD%92%E6%A1%A3/</loc>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://moile737.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://moile737.github.io/%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>https://github.com/moile737/moile737.github.io.git/%E6%90%9C%E7%B4%A2/</loc>
+    <loc>https://moile737.github.io/%E6%90%9C%E7%B4%A2/</loc>
   </url>
 </urlset>
