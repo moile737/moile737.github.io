@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on moile_blogs</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://moile737.github.io/page/</link>
         <description>Recent content in Pages on moile_blogs</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>moile博客</copyright><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>moile博客</copyright><atom:link href="https://moile737.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>分类归档</title>
-        <link>http://localhost:1313/%E5%88%86%E7%B1%BB%E5%BD%92%E6%A1%A3/</link>
+        <link>https://moile737.github.io/%E5%88%86%E7%B1%BB%E5%BD%92%E6%A1%A3/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%88%86%E7%B1%BB%E5%BD%92%E6%A1%A3/</guid>
+        <guid>https://moile737.github.io/%E5%88%86%E7%B1%BB%E5%BD%92%E6%A1%A3/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://moile737.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://moile737.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>链接</title>
-        <link>http://localhost:1313/%E9%93%BE%E6%8E%A5/</link>
+        <link>https://moile737.github.io/%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://moile737.github.io/%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/%E6%90%9C%E7%B4%A2/</link>
+        <link>https://moile737.github.io/%E6%90%9C%E7%B4%A2/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E6%90%9C%E7%B4%A2/</guid>
+        <guid>https://moile737.github.io/%E6%90%9C%E7%B4%A2/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
