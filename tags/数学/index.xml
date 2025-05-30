@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>数学 on moile_blogs</title>
-        <link>http://localhost:1313/tags/%E6%95%B0%E5%AD%A6/</link>
+        <link>http://localhost:50605/tags/%E6%95%B0%E5%AD%A6/</link>
         <description>Recent content in 数学 on moile_blogs</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>moile博客</copyright>
-        <lastBuildDate>Sun, 18 May 2025 22:45:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 May 2025 22:45:26 +0100</lastBuildDate><atom:link href="http://localhost:50605/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>傅里叶级数和傅里叶变换</title>
-        <link>http://localhost:1313/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</link>
+        <link>http://localhost:50605/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</link>
         <pubDate>Sun, 18 May 2025 22:45:26 +0100</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</guid>
-        <description>&lt;h4 id=&#34;前几天博主刚考完试只能说感觉大学生活就这样过去了还没有学到多少东西这次博客也没想好去写什么不过倒是修改了一些bug文章日期竟然是根据美国时间发布的所以我的日期相应会有所延后以及添加新内容tags之后会增加关于搜索和分类的内容方便查找&#34;&gt;前几天博主刚考完试，只能说感觉大学生活就这样过去了，还没有学到多少东西。这次博客也没想好去写什么，不过倒是修改了一些bug（文章日期竟然是根据美国时间发布的，所以我的日期相应会有所延后），以及添加新内容：tags。之后会增加关于搜索，和分类的内容方便查找，
+        <guid>http://localhost:50605/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</guid>
+        <description>&lt;h4 id=&#34;前几天博主刚考完试只能说感觉大学生活就这样过去了还没有学到多少东西这次博客也没想好去写什么不过倒是修改了一些bug文章日期竟然是根据美国时间发布的所以我的日期相应会有所延后以及添加新内容tags之后会增加关于搜索和分类的内容方便查找&#34;&gt;前几天博主刚考完试，只能说感觉大学生活就这样过去了，还没有学到多少东西。这次博客也没想好去写什么，不过倒是修改了一些bug（文章日期竟然是根据美国时间发布的，所以我的日期相应会有所延后），以及添加新内容：tags。之后会增加关于搜索，和分类的内容方便查找.
 &lt;/h4&gt;&lt;h3 id=&#34;傅里叶变换的简介&#34;&gt;傅里叶变换的简介
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;摘自维基百科：&lt;/strong&gt;&lt;br&gt;
@@ -21,7 +21,7 @@
     &gt;傅里叶变换&lt;/a&gt;（法语：Transformation de Fourier，英语：Fourier transform，缩写：FT）是一种线性变换，通常定义为一种积分变换。其基本思想是一个函数可以用（可数或不可数，可数的情况对应于傅里叶级数）&lt;strong&gt;无穷多个周期函数的线性组合来逼近&lt;/strong&gt;，(博主：就像是泰勒展开一样)从而这些组合系数在保有原函数的几乎全部信息的同时，还直接地反映了该函数的“频域特征”。&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;傅里叶级数&lt;/a&gt;（英语：Fourier series）是把类似波的函数表示成简单谐波的方式。更正式地说，对于满足狄利克雷定理的周期函数，其傅里叶级数是由一组&lt;strong&gt;正弦与余弦函数的加权和&lt;/strong&gt;表示的方法。
-&lt;img src=&#34;http://localhost:1313/images/111.webp&#34; alt=&#34; dongtu&#34;&gt;
+&lt;img src=&#34;http://localhost:50605/images/111.webp&#34; alt=&#34; dongtu&#34;&gt;
 具体一些知识可以去看3b1b的视频，或许能获得众多灵感。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;一些前提知识&#34;&gt;一些前提知识
@@ -60,13 +60,138 @@ cos($\theta$)+isin($\theta$)=$e^{i\theta}$&lt;/p&gt;
 0 &amp;amp; \text{if } n \ne 0
 \end{cases}$$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Definition.&lt;/strong&gt;
-Dirichlet conditions: Not all u(t) can be expressed as a Fourier Series.
-Peter Dirichlet derived a set of sufficient conditions.
-The function u(t) must satisfy:
-(1) periodic and single-valued
-(2) $ \int_{0}^{T} |u(t)|,dt &amp;lt; \infty $
-(3) finite number of maxima/minima per period
-(4) finite number of finite discontinuities per period&lt;/p&gt;
+Dirichlet Conditions:
+Not all ( u(t) ) can be expressed as a Fourier series.&lt;br&gt;
+Peter Dirichlet derived a set of &lt;strong&gt;sufficient conditions&lt;/strong&gt;.&lt;br&gt;
+The function ( u(t) ) must satisfy:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It is &lt;strong&gt;periodic&lt;/strong&gt; and &lt;strong&gt;single-valued&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;$  \int_{0}^{T} |u(t)|,dt &amp;lt; \infty $&lt;/li&gt;
+&lt;li&gt;A finite number of &lt;strong&gt;maxima and minima&lt;/strong&gt; within one period.&lt;/li&gt;
+&lt;li&gt;A finite number of &lt;strong&gt;finite discontinuities&lt;/strong&gt; per period.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;关于傅里叶级数&#34;&gt;关于傅里叶级数
+&lt;/h3&gt;&lt;p&gt;But how do we found $a_n&amp;rsquo;s \text{ and } b_n&amp;rsquo;s$ ? The answer is that we could use a clever trick relies on taking averages:
+let &amp;lt;x(t)&amp;gt; equals the average of x(t) over any integer number of periods:
+$$ &amp;lt;x(t)&amp;gt;=\frac{1}{T}\int_{t=0}^T x(t)dt$$
+and also
+$$&amp;lt;sin(2n\pi Ft)&amp;gt;=0$$
+$$&amp;lt;cos(2n\pi Ft)&amp;gt;=\begin{cases} 0 &amp;amp; \text {if } n \neq 0 \
+1 &amp;amp; \text{if } x = 0
+\end{cases}$$&lt;/p&gt;
+&lt;p&gt;Thus, if we multiply both sides by $\cos(2\pi n F t)$ and integrate over one period,&lt;br&gt;
+we can find the coefficients of the Fourier series:&lt;/p&gt;
+&lt;p&gt;$$
+a_n = 2&amp;lt;u(t)cos(2n\pi Ft)&amp;gt;=\frac{2}{T} \int_0^T u(t) \cos(2\pi n F t) , dt
+$$&lt;/p&gt;
+&lt;p&gt;$$
+b_n = 2&amp;lt;u(t)sin(2n\pi Ft)&amp;gt;=\frac{2}{T} \int_0^T u(t) \sin(2\pi n F t) , dt
+$$&lt;/p&gt;
+&lt;h3 id=&#34;一些相关定理&#34;&gt;一些相关定理
+&lt;/h3&gt;&lt;p&gt;$$
+c_n(x) = \frac{1}{2} + \sum_{k=1}^n \cos(kx) = \frac{\sin\left(\frac{n+1}{2} x\right)}{2 \sin\left(\frac{x}{2}\right)}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Riemann-Lebesgue Lamma&lt;/strong&gt;
+$$
+I_\lambda = \int_a^b g(x) \sin(\lambda x) , dx
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;$$
+\int_0^\infty \frac{\sin z}{z} , dz = \frac{\pi}{2}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Parseval&amp;rsquo;s Theorem&lt;/strong&gt;
+$$
+\frac{1}{\pi} \int_{-\pi}^{\pi} f^2(x) , dx = \frac{a_0^2}{2} + \sum_{n=1}^\infty \left( a_n^2 + b_n^2 \right).
+$$
+未完待续。。。。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>关于一些分析收敛的检验</title>
+        <link>http://localhost:50605/p/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E6%94%B6%E6%95%9B%E7%9A%84%E6%A3%80%E9%AA%8C/</link>
+        <pubDate>Sun, 04 May 2025 22:45:26 +0100</pubDate>
+        
+        <guid>http://localhost:50605/p/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E6%94%B6%E6%95%9B%E7%9A%84%E6%A3%80%E9%AA%8C/</guid>
+        <description>&lt;h4 id=&#34;今天是第一次正式写一篇关于自己的博客&#34;&gt;今天是第一次正式写一篇关于自己的博客
+&lt;/h4&gt;&lt;p&gt;因此有很多事项待处理，比如对于博客网页的改进，如何更好地使用 HTML 和 LaTeX 等等。&lt;br&gt;
+后天就到了博主的期末，愿正常发挥。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;关于数列和级数的收敛性&#34;&gt;关于数列和级数的收敛性
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Definition.&lt;/strong&gt; A &lt;strong&gt;sequence&lt;/strong&gt; is a function&lt;br&gt;
+\[ a : \mathbb{N}_{&amp;gt;0} \to \mathbb{R} \]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Definition.&lt;/strong&gt;&lt;br&gt;
+\[ (a_n) \text{ converges to} \ (a \in \mathbb{R} ) \] iff&lt;/p&gt;
+&lt;p&gt;$$
+\forall \varepsilon &amp;gt; 0, \exists N \in \mathbb{N} \text{ such that } \forall n \geq N, \ |a_n - a| &amp;lt; \varepsilon
+$$&lt;/p&gt;
+&lt;p&gt;We write this as  $ \lim_{n \to \infty} a_n = a $&lt;/p&gt;
+&lt;p&gt;Otherwise，it is divergent.&lt;/p&gt;
+&lt;h3 id=&#34;收敛性检验&#34;&gt;收敛性检验
+&lt;/h3&gt;&lt;p&gt;1.) &lt;strong&gt;ratio test&lt;/strong&gt;：
+$$
+\scriptsize
+\begin{aligned}
+\text{If a sequence } (a_n) \text{ satisfies that } \
+\left| \frac{a_{n+1}}{a_n} \right| \to L &amp;lt; 1, \
+\text{then } a_n \to 0.
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;2.) &lt;strong&gt;Monotonic and Bounded&lt;/strong&gt;:
+$$
+\scriptsize
+(a_n) \text{ is monotonically increasing and bounded above, then }
+a_n \text{ converges to }
+$$
+$ \scriptsize
+\\ a := \sup { a_i : i \in \mathbb{N} },
+\text{written as } a_n \uparrow a.
+$&lt;/p&gt;
+&lt;p&gt;3.) &lt;strong&gt;Cauchy sequence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Definition.&lt;/strong&gt;&lt;br&gt;
+A sequence ( (a_n) ) is a Cauchy sequence if and only if
+$$
+\forall \varepsilon &amp;gt; 0, \exists N \in \mathbb{N} \text{ such that } \forall n, m \geq N, |a_n - a_m| &amp;lt; \varepsilon .
+$$&lt;/p&gt;
+&lt;p&gt;4.) &lt;strong&gt;Sandwish Test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$
+\scriptsize
+\text{If for all} ( n \in \mathbb{N} ), we have ( c_n \leq a_n \leq b_n ),
+$
+$
+\scriptsize \text{and if the series} ( \sum c_n ) and ( \sum b_n ) \text{both converge,}
+$
+$
+\scriptsize
+\text{then the series }
+( \sum a_n ) also converges.
+$&lt;/p&gt;
+&lt;p&gt;5.) &lt;strong&gt;conparison test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$\scriptsize
+If ( a_n b_n \to L \in \mathbb{R} ) as ( n \to \infty ), \text{and if the series } ( \sum b_n ) \text{ is absolutely convergent, }
+$&lt;/p&gt;
+&lt;p&gt;$
+\scriptsize \text{then the series } ( \sum a_n ) \text{ is absolutely convergent.}
+$&lt;/p&gt;
+&lt;p&gt;6.)&lt;strong&gt;root-test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$$
+\scriptsize
+\text{If a sequence } (a_n) \text{ satisfies that } \
+a_n^{1/n} \to L &amp;lt; 1, \
+\text{then } a_n \text{ is absulute converge}.
+$$&lt;/p&gt;
+&lt;p&gt;7.) &lt;strong&gt;alternating series test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$
+a_n \geq 0 \text { and } a_n \text{ decreasing and } a_n \to 0 ( \text {or say } a_n \downarrow 0) \text{Then it is conditionally convergent}
+$&lt;/p&gt;
+&lt;p&gt;8.) &lt;strong&gt;p-test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$
+\sum_{n=1}^{\infty} \frac{1}{n^{p}} \text{converges iff }p &amp;gt;1.
+$&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;后记&lt;/strong&gt;
+一旦忙活起了这个，就到了凌晨以二点，本来想做一些泰勒展开的东西，但是已经累的不想做了。第一次排版弄的稀碎，我应该学一学关于如何丰富博客功能的代码,比如超链接，插入和去除。我已经花了大半个小时才搞明白我能否用latex……。总之各位愉快。&lt;/p&gt;
 </description>
         </item>
         
