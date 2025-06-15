@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>数学 on moile_blogs</title>
-        <link>http://localhost:50605/tags/%E6%95%B0%E5%AD%A6/</link>
+        <link>http://localhost:1313/tags/%E6%95%B0%E5%AD%A6/</link>
         <description>Recent content in 数学 on moile_blogs</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>moile博客</copyright>
-        <lastBuildDate>Sun, 18 May 2025 22:45:26 +0100</lastBuildDate><atom:link href="http://localhost:50605/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 May 2025 22:45:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>傅里叶级数和傅里叶变换</title>
-        <link>http://localhost:50605/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</link>
+        <link>http://localhost:1313/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</link>
         <pubDate>Sun, 18 May 2025 22:45:26 +0100</pubDate>
         
-        <guid>http://localhost:50605/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</guid>
+        <guid>http://localhost:1313/p/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0%E5%92%8C%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/</guid>
         <description>&lt;h4 id=&#34;前几天博主刚考完试只能说感觉大学生活就这样过去了还没有学到多少东西这次博客也没想好去写什么不过倒是修改了一些bug文章日期竟然是根据美国时间发布的所以我的日期相应会有所延后以及添加新内容tags之后会增加关于搜索和分类的内容方便查找&#34;&gt;前几天博主刚考完试，只能说感觉大学生活就这样过去了，还没有学到多少东西。这次博客也没想好去写什么，不过倒是修改了一些bug（文章日期竟然是根据美国时间发布的，所以我的日期相应会有所延后），以及添加新内容：tags。之后会增加关于搜索，和分类的内容方便查找.
 &lt;/h4&gt;&lt;h3 id=&#34;傅里叶变换的简介&#34;&gt;傅里叶变换的简介
 &lt;/h3&gt;&lt;blockquote&gt;
@@ -21,7 +21,7 @@
     &gt;傅里叶变换&lt;/a&gt;（法语：Transformation de Fourier，英语：Fourier transform，缩写：FT）是一种线性变换，通常定义为一种积分变换。其基本思想是一个函数可以用（可数或不可数，可数的情况对应于傅里叶级数）&lt;strong&gt;无穷多个周期函数的线性组合来逼近&lt;/strong&gt;，(博主：就像是泰勒展开一样)从而这些组合系数在保有原函数的几乎全部信息的同时，还直接地反映了该函数的“频域特征”。&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;傅里叶级数&lt;/a&gt;（英语：Fourier series）是把类似波的函数表示成简单谐波的方式。更正式地说，对于满足狄利克雷定理的周期函数，其傅里叶级数是由一组&lt;strong&gt;正弦与余弦函数的加权和&lt;/strong&gt;表示的方法。
-&lt;img src=&#34;http://localhost:50605/images/111.webp&#34; alt=&#34; dongtu&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/111.webp&#34; alt=&#34; dongtu&#34;&gt;
 具体一些知识可以去看3b1b的视频，或许能获得众多灵感。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;一些前提知识&#34;&gt;一些前提知识
@@ -110,10 +110,10 @@ $$
         </item>
         <item>
         <title>关于一些分析收敛的检验</title>
-        <link>http://localhost:50605/p/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E6%94%B6%E6%95%9B%E7%9A%84%E6%A3%80%E9%AA%8C/</link>
+        <link>http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E6%94%B6%E6%95%9B%E7%9A%84%E6%A3%80%E9%AA%8C/</link>
         <pubDate>Sun, 04 May 2025 22:45:26 +0100</pubDate>
         
-        <guid>http://localhost:50605/p/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E6%94%B6%E6%95%9B%E7%9A%84%E6%A3%80%E9%AA%8C/</guid>
+        <guid>http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E6%94%B6%E6%95%9B%E7%9A%84%E6%A3%80%E9%AA%8C/</guid>
         <description>&lt;h4 id=&#34;今天是第一次正式写一篇关于自己的博客&#34;&gt;今天是第一次正式写一篇关于自己的博客
 &lt;/h4&gt;&lt;p&gt;因此有很多事项待处理，比如对于博客网页的改进，如何更好地使用 HTML 和 LaTeX 等等。&lt;br&gt;
 后天就到了博主的期末，愿正常发挥。&lt;/p&gt;
